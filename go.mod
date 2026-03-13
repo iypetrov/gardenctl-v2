@@ -6,8 +6,8 @@ require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/fatih/color v1.18.0
-	github.com/gardener/gardener v1.135.1
-	github.com/gardener/gardener-extension-provider-openstack v1.52.0
+	github.com/gardener/gardener v1.138.0
+	github.com/gardener/gardener-extension-provider-openstack v1.53.1
 	github.com/gardener/machine-controller-manager v0.61.1
 	github.com/go-jose/go-jose/v4 v4.1.3
 	github.com/golang/mock v1.6.0
@@ -18,7 +18,7 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	github.com/spf13/viper v1.21.0
-	golang.org/x/crypto v0.47.0
+	golang.org/x/crypto v0.49.0
 	golang.org/x/term v0.39.0
 	k8s.io/api v0.34.3
 	k8s.io/apimachinery v0.34.3
